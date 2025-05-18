@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "ishares_etf_data"
 version = "0.1.0"
 authors = [
-  { name="Or Shemesh", email="0rshemesh at mail" },
+  { name="Or Shemesh", email="0rshemesh@example.com" },
 ]
 description = "An UNOFFICIAL Python library to fetch holdings data for iShares Russell 1000 ETF. Not affiliated with BlackRock or iShares."
 readme = "README.md"

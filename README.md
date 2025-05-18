@@ -66,13 +66,13 @@ The library is designed to handle real-world issues like date unavailability and
 
 ## Installation
 
-1.  **Clone the repository (or download the source code):**
+### **Clone the repository (or download the source code):**
     ```bash
     git clone https://github.com/0rshemesh/ishares_etf_data.git
     cd ishares_etf_data
     ```
 
-2.  **Install the library:**
+    **Install the library:**
     It's recommended to install in a virtual environment.
     ```bash
     python -m venv venv
@@ -86,6 +86,13 @@ The library is designed to handle real-world issues like date unavailability and
     ```bash
     pip install -e .
     ```
+
+### **Install directly from GitHub:**
+    You can also install the latest version directly from GitHub using pip:
+    ```bash
+    pip install git+https://github.com/0rshemesh/ishares_etf_data.git
+    ```
+    This is useful when you want to use the latest code without cloning the repository.
 
 ## Basic Usage
 
