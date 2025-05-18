@@ -1,3 +1,5 @@
+![Russell 1000 ETF Data - Unofficial Python Library](assets/banner.png)
+
 # iShares ETF Data Retriever (`ishares-etf-data`)
 
 This Python library provides a simple interface to fetch holding data for the iShares Russell 1000 ETF from the iShares website.
