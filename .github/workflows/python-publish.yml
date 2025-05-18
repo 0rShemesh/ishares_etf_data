@@ -1,4 +1,4 @@
-name: ishares_etf_data
+name: Python Package
 
 on:
   release:
