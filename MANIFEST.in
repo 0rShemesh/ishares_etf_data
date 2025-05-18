@@ -1,0 +1,14 @@
+include LICENSE
+include README.md
+include pyproject.toml
+include requirements.txt
+
+recursive-include examples *.py
+recursive-include examples *.md
+
+# Exclude development/test files from distribution
+prune examples/output
+global-exclude *.py[cod]
+global-exclude __pycache__
+global-exclude *.so
+global-exclude .git* 
