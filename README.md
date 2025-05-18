@@ -1,4 +1,6 @@
-![Russell 1000 ETF Data - Unofficial Python Library](assets/banner.png)
+<div align="center">
+  <img src="assets/banner.png" alt="Russell 1000 ETF Data - Unofficial Python Library" width="70%">
+</div>
 
 # iShares ETF Data Retriever (`ishares-etf-data`)
 
